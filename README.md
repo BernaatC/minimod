@@ -1,7 +1,7 @@
 # minimod
 Small modular arithmetic library in C for 64-bit unsigned integers
 
-## Installation
+## Setup
 Simply add the minimod.h file to your project and link it wherever needed
 
 ## Cheatsheet
