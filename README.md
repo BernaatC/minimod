@@ -7,7 +7,7 @@ Simply add the minimod.h file to your project and link it wherever needed
 ## Cheatsheet
 **int isCongruent(const uint64_t a, const uint64_t b, const uint64_t m)**<br>
 **int isCongruent32(const uint64_t a, const uint64_t b, const uint64_t m)**<br>
-Returns whether a and b are congruent modulo m
+Returns whether a and b are congruent modulo m<br><br>
 **uint64_t addMod(const uint64_t a, const uint64_t b, const uint64_t m)**<br>
 **uint32_t addMod32(const uint32_t a, const uint32_t b, const uint32_t m)**<br>
 Returns (a + b) mod m<br><br>
